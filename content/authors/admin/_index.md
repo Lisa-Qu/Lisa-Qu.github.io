@@ -70,8 +70,8 @@ education:
       GPA: 3.7/4.0
 
       Co-authored “Fed-MUNet” (arXiv:2409.01020) on privacy-preserving brain-tumor segmentation under Prof. Bing Luo
+      Our federated U-Net+Transformer matched centralized baselines within ~5% Dice. Also modeled nonlinear guqin-string dynamics (PDE/RK4) and served as a CS101 Lab Instructor.  
       Resisdency Asistant under ResidentLife Coordinator: Yiran Tang
-our federated U-Net+Transformer matched centralized baselines within ~5% Dice. Also modeled nonlinear guqin-string dynamics (PDE/RK4) and served as a CS101 Lab Instructor.  
 
 
 work:
