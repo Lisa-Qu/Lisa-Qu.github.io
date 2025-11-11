@@ -1,90 +1,49 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Fed-MUnet: Multi-modal Federated Unet for Brain Tumor Segmentation" 
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
+- Ruojun Zhou 
+- Lisha Qu
+- Lei Zhang 
+- Ziming Li
+- Hongwei Yu 
+- Bing Luo 
+date: "2024-02-18T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2024-02-18T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: "2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom)"
+publication_short: "IEEE HealthCom 2024"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Deep learning-based techniques have been widely utilized for brain tumor segmentation using both single and multi-modal Magnetic Resonance Imaging (MRI) images. Most current studies focus on centralized training due to the intrinsic challenge of data sharing across clinics. To mitigate privacy concerns, researchers have introduced Federated Learning (FL) methods to brain tumor segmentation tasks. However, currently such methods are focusing on single modal MRI, with limited study on multi-modal MRI. The challenges include complex structure, large-scale parameters, and overfitting issues of the FL based methods using multi-modal MRI. To address the above challenges, we propose a novel multi-modal FL framework for brain tumor segmentation (Fed-MUnet) that is suitable for FL training. We evaluate our approach with the BraTS2022 datasets, which are publicly available. The experimental results demonstrate that our framework achieves FL nature of distributed learning and privacy preserving. For the enhancing tumor, tumor core and whoe tumor, the mean of five major metrics were 87.5%, 90.6% and 92.2%, respectively, which were higher than SOTA methods while preserving privacy. In terms of parameters count, quantity of floating-point operations (FLOPs) and inference, Fed-MUnet is Pareto optimal compared with the state-of-the-art segmentation backbone while achieves higher performance and tackled privacy issue. "
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "We propose Fed-MUnet, a novel multi-modal Federated Learning (FL) framework for brain tumor segmentation. Our approach addresses the privacy challenges of data sharing and the technical challenges of multi-modal MRI in FL, such as complex structures and overfitting.Evaluated on the BraTS2022 dataset, Fed-MUnet achieves state-of-the-art performance (e.g., 92.2% mean metric for whole tumor) while preserving privacy and remaining computationally efficient."
 
 tags:
-  - Large Language Models
+- Federated Learning 
+- Brain tumor segmentation 
+- Multi-modality 
+- BraTS2022 dataset
 
-# Display this page in the Featured widget?
 featured: true
 
-# Standard identifiers for auto-linking
 hugoblox:
-  ids:
-    doi: 10.5555/123456
+  ids: {}
 
-# Custom links
 links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: video
-    url: https://youtube.com
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+- type: publisher
+  label: IEEE Xplore
+  url: "https://ieeexplore.ieee.org/document/10880824"
+- type: code
+  url: "https://github.com/Arnold-Jun/Fed-MUnet" 
+- type: dataset
+  label: BraTS2022 Dataset
+  url: "https://www.med.upenn.edu/cbica/brats2022/" 
 ---
-
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
