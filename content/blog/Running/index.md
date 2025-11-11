@@ -3,7 +3,7 @@ title: '🏃‍♀️ My Identity as a Runner'
 summary: 'From a junior school champion in Shanghai to training with the coach of an Olympic gold medalist, running has taught me about courage, technique, and balance. Here is my story.'
 date: 2024-05-19
 image:
-  filename: trx2.JPG
+  filename: images/trx2.JPG
   focal_point: 'Smart'
   preview_only: false
 ---
