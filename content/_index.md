@@ -12,16 +12,16 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: Lisha Qu
-      # text: ''
+      username: admin
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: 'Lisha Qu is a cs major undergraduate student at Duke University and Duke kunshan University.'
-        education: 'Dual Degree of Duke and Duke Kunshan University.'
-        interests: 'Image recognition; Shapely Value; Boxing; Cooking; TRX'
+        about: ''
+        education: ''
+        interests: ''
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
