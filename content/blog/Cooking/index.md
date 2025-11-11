@@ -9,7 +9,6 @@ image:
 
 I started learning to cook because I’m used to Chinese food and found it hard to adjust to local dishes when studying at Duke. Instead of giving up, I taught myself using recipes and videos on Redbook. Cooking unexpectedly helped me make friends — we cooked together every weekend. It was a wonderful way to bring people together, share laughter, and feel a small sense of accomplishment. Of course, we sometimes argued in the kitchen, but once the dishes were done, everything turned into laughter.
 
-![Cooking]( /images/f1.jpg )
 
 ![Cooking]( /images/health2.jpg )
 
@@ -50,6 +49,8 @@ I also love braised beef. Understanding how to cook meat properly helps with man
 
 ### 酱香饼 (Savory Sauce Pancake)
 The hardest dish for me is 酱香饼 (savory sauce pancake), a local snack from China that is hard to find elsewhere. It’s very difficult to make—I tried at least 20 times before getting it right. The dough’s water ratio, the resting time for elasticity, and the kneading technique all require patience and reflection. Many online tutorials don’t explain whether to use high-, medium-, or low-gluten flour, which is why my first few attempts failed—the texture wasn’t crispy and lacked the layered structure. Luckily, I made it!
+
+The pancake looks bad but the taste is wonderful to me!
 
 ![Cooking]( /images/pra.jpg )
 
