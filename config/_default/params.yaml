@@ -6,7 +6,9 @@
 # Appearance
 appearance:
   mode: system
-  color: indigo
+#color: indigo
+  color: blue
+  #font: classic
 
 # SEO
 marketing:
