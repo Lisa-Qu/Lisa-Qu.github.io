@@ -119,4 +119,14 @@ languages:
     percent: 90
   - name: Chinese
     percent: 100
+
+awards:
+  - title: Dean’s List 
+    date: '2023-12-01'
+    awarder: Duke Kunshan
+    icon: hero/trophy
+  - title: Dean’s List 
+    date: '2024-12-01'
+    awarder: Duke Kunshan
+    icon: hero/currency-dollar
 ---
