@@ -38,7 +38,7 @@ sections:
 
         Please reach out to collaborate 😃
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:
@@ -69,7 +69,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 6
       # Filter on criteria
       filters:
         author: ''
