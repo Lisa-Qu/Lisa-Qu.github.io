@@ -15,7 +15,8 @@ publishDate: "2024-02-18T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper-conference"]
+# publication_types: ["paper-conference"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2024 IEEE International Conference on E-health Networking, Application & Services (HealthCom)"
