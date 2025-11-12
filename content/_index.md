@@ -24,16 +24,7 @@ sections:
         interests: ''
     design:
       # Apply a gradient background
-      #css_class: hbx-bg-gradient
-      background:
-        # Name of image in `assets/media/`.
-        image: 'background.jpg'
-        # Darken the image? Range 0-1 where 1 is opaque black.
-        darken: 0.6
-        # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-        position: Center
-        # Options: cover, contain, repeat
-        size: cover
+      css_class: hbx-bg-gradient
 
       # Avatar customization
       avatar:
