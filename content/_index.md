@@ -11,26 +11,33 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
-    design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        I focus on ML security and have explored diverse areas to understand how to secure trained models. My journey began with a string-vibration simulation that revealed how floating-point errors compromise precision. To address this, I studied numerical stability and formalized the concepts through numerical analysis. Later, I explored federated learning to preserve data privacy. Working with Prof. Bing Luo, I developed privacy-preserving brain-tumor segmentation that trains across sites without sharing raw MRIs. At Duke, I employed Shapley values to interpret model behavior and detect vulnerabilities. Together, these experiences shaped my pursuit of transparent, privacy-safe, and reliable AI systems.
 
-      # Avatar customization
-      avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        # shape: circle
-        shape: square # Options: circle (default), square, rounded
+        Please reach out to collaborate 😃
+    design:
+      columns: '2'
+  # - block: resume-biography-3
+  #   content:
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: admin
+  #     text: ''
+  #     # Show a call-to-action button under your biography? (optional)
+  #     headings:
+  #       about: ''
+  #       education: ''
+  #       interests: ''
+  #   design:
+  #     # Apply a gradient background
+  #     css_class: hbx-bg-gradient
+
+  #     # Avatar customization
+  #     avatar:
+  #       size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+  #       # shape: circle
+  #       shape: square # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: '📚 My Research'
