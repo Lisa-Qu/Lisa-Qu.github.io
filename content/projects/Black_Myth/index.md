@@ -31,7 +31,5 @@ We collect posts, translate key content, score each entry with probabilistic sen
 
 ## Visual Overview
 
-```md
-![Labeled sample posts with sentiment scores](images/sentiment_table.png)
-
-![Distribution of sentiment categories](images/sentiment_distribution.png)
+{{< figure src="images/sentiment_table.png" caption="Labeled sample posts with sentiment scores" >}}
+{{< figure src="images/sentiment_distribution.png" caption="Distribution of sentiment categories" >}}

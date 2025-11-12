@@ -25,7 +25,8 @@ It can serve as a research tool for studying **multi-agent dialogue**, **argumen
 ---
 
 ### Demonstration
-![Federated training rounds](images/capstone-jury-deliberation-simulator_Colab.png.png "Client–server FL for MRI segmentation")
+![Federated training rounds](images/capstone-jury-deliberation-simulator_Colab.png "Client–server FL for MRI segmentation")
+{{< figure src="images/capstone-jury-deliberation-simulator_Colab.png" caption="Labeled sample posts with sentiment scores" >}}
 
 You can explore the full implementation and experiment results in the Kaggle Notebook below:
 
