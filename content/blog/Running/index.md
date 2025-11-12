@@ -1,7 +1,7 @@
 ---
 title: '🏃‍♀️ My Identity as a Runner'
 summary: 'From a junior school champion in Shanghai to training with the coach of an Olympic gold medalist, running has taught me about courage, technique, and balance. Here is my story.'
-date: 2024-05-19
+date: 2025-05-19
 image:
   filename: /images/trx2.jpg
   focal_point: 'Smart'
@@ -56,9 +56,9 @@ I also found that exercising was a great way to refresh my mind and stay focused
 
 Now, I enjoy **hiking, boxing, TRX, and weight training** — not for medals, but for strength, clarity, and joy.  
 
-![Fitness journey](images/ex1.jpg "Climbing!")
-![Fitness journey](images/ex2.jpg "Climbing!")
-![Fitness journey](images/hik.jpg "Hiking!")
-![Fitness journey](images/hik2.jpg "Hiking!")
-![Fitness journey](images/trx2.jpg "TRX!")
+![Fitness journey](images/ex1.jpg "Climbing")
+![Fitness journey](images/ex2.jpg "Climbing")
+![Fitness journey](images/hik.jpg "Hiking")
+![Fitness journey](images/hik2.jpg "Hiking")
+![Fitness journey](images/trx2.jpg "TRX")
 ---

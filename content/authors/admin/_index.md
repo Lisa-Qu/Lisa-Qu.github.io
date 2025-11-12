@@ -58,9 +58,6 @@ education:
     date_end: 2026-06-01
     summary: |
       Research Assistant with Prof. Jian Pei on Shapley-based interpretability—uncovered latent sub-phenotypes and built SHAP-space debugging metrics for class-impure regions. CS101 Lab Instructor (Prof. Susan Rodger) and led a multi-agent Jury Deliberation Simulator capstone.  
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
   - area: BS Mathematics with track in Computer Science
     institution: Duke Kunshan University
     icon: ""

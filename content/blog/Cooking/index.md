@@ -1,7 +1,7 @@
 ---
 title: My Cooking Journey
 summary: From learning to cook out of necessity to finding joy and friendship in the kitchen. A story of self-teaching, making friends, and the meditative process of cooking.
-date: 2024-05-20
+date: 2025-09-20
 image:
   focal_point: 'Smart'
   preview_only: false
