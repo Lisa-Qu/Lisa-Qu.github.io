@@ -1,7 +1,7 @@
 ---
 title: '🧠 YouAre — iOS App for Building Self-Assertion and Confidence'
 summary: 'This app is designed to help people improve self-assertion.'
-date: '2025-03'
+date: '2025-03-01'
 image:
   filename: featured.png
   focal_point: 'Smart'

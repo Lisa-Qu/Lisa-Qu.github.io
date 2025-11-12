@@ -1,7 +1,7 @@
 ---
 title: Social Media Sentiment Analysis Project
 summary: This project builds an end-to-end pipeline to analyze public sentiment on Chinese social media posts using an English sentiment model.
-date: '2024-07~2024-08'
+date: '2024-07-01'
 image:
   focal_point: 'Smart'
   preview_only: false

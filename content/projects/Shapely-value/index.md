@@ -1,7 +1,7 @@
 ---
 title: 'Investigation of the Relationship between Shapley Values and Clustering Structures'
 summary: 'This analysis is ongoing. Preliminary results are summarized below.'
-date: '2024-07-28'
+date: '2025-01-01'
 image:
   filename: featured.png
   focal_point: 'Smart'
