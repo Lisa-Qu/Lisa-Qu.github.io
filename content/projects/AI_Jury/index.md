@@ -1,7 +1,7 @@
 ---
 title: Jury Deliberation Simulator
 summary: This project presents a Jury Deliberation Simulator, an interactive AI-driven environment designed to study group reasoning, persuasion, and decision-making in a courtroom-like setting.
-date: '2024-07-28'
+date: '2025-05'
 image:
   filename: featured.png
   focal_point: 'Smart'

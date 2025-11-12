@@ -1,7 +1,7 @@
 ---
 title: 'Research on simulating guqin string movement at DKU'
 summary: 'Formulated and solved a nonlinear wave PDE with fourth-order bending stiffness and viscoelastic damping, discretized via finite-difference stencils and integrated using Runge–Kutta (RK4). Built a C + Python hybrid solver with FFT-based spectral analysis and Lyapunov-exponent estimation, quantifying the onset of chaos in plucked-string motion.'
-date: '2024-07-28'
+date: '2023-06~2023-09'
 image:
   focal_point: 'Smart'
   preview_only: false
