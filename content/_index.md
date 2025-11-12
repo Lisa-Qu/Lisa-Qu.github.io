@@ -1,12 +1,12 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ''
-date: 2022-10-24
-type: landing
+# # Leave the homepage title empty to use the site title
+# title: ''
+# date: 2022-10-24
+# type: landing
 
-design:
-  # Default section spacing
-  spacing: '6rem'
+# design:
+#   # Default section spacing
+#   spacing: '6rem'
 
 sections:
   - block: resume-biography-3
@@ -21,6 +21,10 @@ sections:
         Together, these experiences shaped my pursuit of transparent, privacy-safe, and reliable AI systems.Please reach out to collaborate 😃
     design:
       columns: '2'
+      card:
+        # Card background color (CSS class)
+        ss_class: "bg-white dark:bg-neutral-900 shadow-lg"
+---
   # - block: resume-biography-3
   #   content:
   #     # Choose a user profile to display (a folder name within `content/authors/`)
