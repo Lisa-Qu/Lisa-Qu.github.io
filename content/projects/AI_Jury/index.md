@@ -1,4 +1,11 @@
-# Jury Deliberation Simulator
+---
+title: Jury Deliberation Simulator
+summary: This project presents a Jury Deliberation Simulator, an interactive AI-driven environment designed to study group reasoning, persuasion, and decision-making in a courtroom-like setting.
+date: '2024-07-28'
+image:
+  focal_point: 'Smart'
+  preview_only: false
+---
 
 This project presents a **Jury Deliberation Simulator**, an interactive AI-driven environment designed to study **group reasoning, persuasion, and decision-making** in a courtroom-like setting.  
 Inspired by the dynamics of *12 Angry Men*, the simulator models how multiple jurors—each represented by an autonomous large language model—debate, form opinions, and eventually reach a verdict.

@@ -1,4 +1,11 @@
-***Fed-MUnet: Multi-modal Federated U-Net for Brain Tumor Segmentation at DKU***
+---
+title: 'Fed-MUnet: Multi-modal Federated U-Net for Brain Tumor Segmentation at DKU'
+summary: 'Privacy-preserving federated learning (FL) for multi-hospital MRI segmentation. A lightweight U-Net with a Cross-Modality Module (CMM) fuses T1/T1c/T2/FLAIR features; server-side clipped aggregation with calibrated noise stabilizes non-IID clients. On BraTS-style benchmarks, Fed-MUnet approaches centralized performance while keeping data on-prem.'
+date: '2024-07-28'
+image:
+  focal_point: 'Smart'
+  preview_only: false
+---
 📆03/2024-08/2024
 👨‍🏫Research Assistant to Professor Bing Luo：Assistant Professor of Data and Computational Science	📍Kunshan, China
 

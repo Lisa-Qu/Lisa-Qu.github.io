@@ -1,4 +1,11 @@
-# Social Media Sentiment Analysis Project
+---
+title: Social Media Sentiment Analysis Project
+summary: This project builds an end-to-end pipeline to analyze public sentiment on Chinese social media posts using an English sentiment model.
+date: '2024-07-28'
+image:
+  focal_point: 'Smart'
+  preview_only: false
+---
 
 This project builds an end-to-end pipeline to **analyze public sentiment on Chinese social media posts** using an English sentiment model.  
 We collect posts, translate key content, score each entry with probabilistic sentiment metrics, and map them into five categories to support quick diagnostic insight.

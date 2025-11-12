@@ -34,9 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I focus on ML security and have explored diverse areas to understand how to secure trained models. My journey began with a string-vibration simulation that revealed how floating-point errors compromise precision. To address this, I studied numerical stability and formalized the concepts through numerical analysis. Later, I explored federated learning to preserve data privacy. Working with Prof. Bing Luo, I developed privacy-preserving brain-tumor segmentation that trains across sites without sharing raw MRIs. At Duke, I employed Shapley values to interpret model behavior and detect vulnerabilities. Together, these experiences shaped my pursuit of transparent, privacy-safe, and reliable AI systems.
 
         Please reach out to collaborate 😃
     design:

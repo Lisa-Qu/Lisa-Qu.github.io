@@ -1,4 +1,11 @@
-***Investigation of the Relationship between Shapley Values and Clustering Structures***
+---
+title: 'Investigation of the Relationship between Shapley Values and Clustering Structures'
+summary: 'This analysis is ongoing. Preliminary results are summarized below.'
+date: '2024-07-28'
+image:
+  focal_point: 'Smart'
+  preview_only: false
+---
 📆02/2025-Now
 👨‍🏫Research Assistant with Professor Jian Pei: Arthur S. Pearse Distinguished Professor
 📍Kunshan, China
