@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: "Welcome! to Lisha's Personal Website!"
 
 # Site footer
 footer:
