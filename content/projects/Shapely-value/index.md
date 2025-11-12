@@ -3,6 +3,7 @@ title: 'Investigation of the Relationship between Shapley Values and Clustering 
 summary: 'This analysis is ongoing. Preliminary results are summarized below.'
 date: '2024-07-28'
 image:
+  filename: featured.png
   focal_point: 'Smart'
   preview_only: false
 ---
